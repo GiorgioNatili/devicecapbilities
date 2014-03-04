@@ -4,9 +4,12 @@
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="info@cengage.com" href="http://www.cengage.com">
+        Cengage Dev Team
     </author>
     <content src="index.html" />
     <access origin="*" />
+
+    <preference name="phonegap-version" value="3.1.0" />
+
 </widget>
